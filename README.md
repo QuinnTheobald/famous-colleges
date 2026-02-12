@@ -1,5 +1,4 @@
 # data-project
-Final project for INFO 2950
 Project Topic:  What are the most suprisingly successful colleges?
 
 File Order:
